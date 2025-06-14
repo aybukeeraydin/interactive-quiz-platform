@@ -64,7 +64,7 @@ cd backend
 npm install
 npm run dev
 ```
-### Backend Kurulumu
+### Frontend Kurulumu
 
 ```bash
 npm install
