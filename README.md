@@ -32,12 +32,14 @@ Bu proje, kullanıcıların canlı olarak quiz oturumlarına katılabildiği ve 
 
 ### Backend
 
+- `/config` - Veritabanı bağlantı ayarları
 - `/controllers` - API controller dosyaları
 - `/models` - Mongoose şema dosyaları
 - `/routes` - API endpoint tanımlamaları
-- `/middlewares` - Auth middleware ve hata yönetimi
+- `/middleware` - Auth middleware ve hata yönetimi
 - `server.js` - Uygulamanın başlangıç noktası
-
+- `.env` - Gizli ve ortam değişkenleri
+  
 ### Frontend
 
 - `/components` - React bileşenleri
