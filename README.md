@@ -1,4 +1,5 @@
-# Interactive Quiz Platform
+# Interactive Quiz Platform 
+#### 👩‍💻 Aybüke Eraydın & 👩‍💻 Buse Yıldız
 
 ## 📌 Proje Hakkında
 
